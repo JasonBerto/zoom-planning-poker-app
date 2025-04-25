@@ -1,0 +1,13 @@
+{
+    "name": "Planning Poker",
+    "version": "1.0.0",
+    "description": "Lightweight planning poker using Fibonacci sequence",
+    "permissions": [],
+    "zoomAppComponents": {
+      "url": "zoomapp.html"
+    },
+    "domains": [],
+    "type": "zoomapp",
+    "support_url": "https://www.prescrypto.com/contact"
+  }
+  
